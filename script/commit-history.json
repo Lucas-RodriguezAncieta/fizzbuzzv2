@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "441e158869ff531d8773254960fc5eab0fa85a72",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-04T20:41:28.000Z",
       "message": "feat: prueba retorno de valor que no sea multiplo de 3 o 5",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/441e158869ff531d8773254960fc5eab0fa85a72"
     },
     "stats": {
       "total": 2103,
@@ -15,6 +15,25 @@
     },
     "coverage": 66.67,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T20:42:45.000Z",
+      "message": "feat: prueba retorno de Fizz  que sea multiplo de 3",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 77.78,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
