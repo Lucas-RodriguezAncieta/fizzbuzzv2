@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1e9482f563c36124696e540cf8d0a9b9bcabe0e6",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-09-04T20:48:12.000Z",
       "message": "feat: prueba agregada caso retorno de Buzz cuando es multiplo de 5",
-      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/1e9482f563c36124696e540cf8d0a9b9bcabe0e6"
     },
     "stats": {
       "total": 5,
@@ -53,6 +53,25 @@
     },
     "coverage": 88.89,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T21:18:09.000Z",
+      "message": "feat: prueba agregada caso retorno de FizzBuzz cuando es multiplo de 3 y 5",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 12,
+      "deletions": 4,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
