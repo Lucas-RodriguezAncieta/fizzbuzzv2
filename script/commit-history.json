@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-09-04T20:41:28.000Z",
+      "message": "feat: prueba retorno de valor que no sea multiplo de 3 o 5",
+      "url": "https://github.com/Lucas-RodriguezAncieta/fizzbuzzv2/commit/HEAD"
+    },
+    "stats": {
+      "total": 2103,
+      "additions": 1058,
+      "deletions": 1045,
+      "date": "2025-09-04"
+    },
+    "coverage": 66.67,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
